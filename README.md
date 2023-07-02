@@ -3,6 +3,7 @@
 Allows you to override the default bomb color
 
 Use `qpm-rust s build` to build
+
 Same goes for `qpm-rust s copy` and `qpm-rust s qmod`
 
 ## Credits
